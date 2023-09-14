@@ -1,0 +1,1 @@
+git merge combines code from different branches while preserving commit history, whereas git rebase linearizes history by moving or combining commits.
