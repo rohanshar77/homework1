@@ -1,0 +1,1 @@
+A remote repository is a version-controlled code repository hosted on a server, typically accessible over the internet, for sharing and collaboration.
